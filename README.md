@@ -20,6 +20,7 @@ Why use a Bash script?
 - [Execute command](#execute-command-after-iptables-run)
 - [Notify via HTTP](#send-notification-via-http-post)
 - [Use Telegram](#use-telegram-bot)
+- [Useful guides and blog posts](#useful-guides-and-blog-posts-about-log2iptables)
 - [TODO](#todo)
 - [Contact](#contact)
 
