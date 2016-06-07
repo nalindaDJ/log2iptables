@@ -333,7 +333,7 @@ the result is:
 all contributions are welcome :)
 
 ## Useful guides and blog posts about log2iptables
-Log2iptables setup tutorial for Ubuntu 14.04 [https://codeandsend.com/blog/setting-up-log2iptables-ubuntu/](https://codeandsend.com/blog/setting-up-log2iptables-ubuntu/)
+[Log2iptables setup tutorial for Ubuntu 14.04](https://codeandsend.com/blog/setting-up-log2iptables-ubuntu/)
 
 ## Contact
 ```
