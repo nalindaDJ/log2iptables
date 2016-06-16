@@ -25,7 +25,7 @@ Why use a Bash script?
 - [Contact](#contact)
 
 ## CHANGELOG 1.8
-Fixed issues running in crontab by adding the PATH variable.
+Solved issues about running log2iptables in crontab
 
 ## Usage
 ```

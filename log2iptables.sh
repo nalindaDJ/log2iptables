@@ -73,6 +73,7 @@ EXECCMD="0";
 # -- END CONFIG --
 
 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
 SENDMAIL=0;
 
 echo ""
