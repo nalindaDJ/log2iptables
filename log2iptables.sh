@@ -10,7 +10,7 @@
 # https://github.com/theMiddleBlue/log2iptables
 # Author: Andrea (aka theMiddle) Menin
 #
-VERSION="1.7";
+VERSION="1.8";
 
 # -- CONFIG default value --
 #
@@ -72,6 +72,7 @@ EXECCMD="0";
 #
 # -- END CONFIG --
 
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 SENDMAIL=0;
 
 echo ""
