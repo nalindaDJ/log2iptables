@@ -339,7 +339,6 @@ all contributions are welcome :)
 ## Contact
 ```
 Andrea (aka theMiddle) Menin
-https://waf.red
-theMiddle@waf.red
+menin.andrea@gmail.com
 ```
 
