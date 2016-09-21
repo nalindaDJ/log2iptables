@@ -320,8 +320,6 @@ The command will be something like the following:
 ```
 ./log2iptables.sh -x 1 -f /var/log/auth.log -r "sshd.*(f|F)ail.*(\=| )([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})" -p 3 -l 5 -t 1 -T "myTokenBlablabla" -C "123456"
 ```
-the result is:
-![screenshot](https://waf.blue/img/TelegramScreenshot.jpg)
 
 ## TODO
 - 2015-11-15 `[high  ]` ~~Execute command on iptables rule add~~ done v1.6
