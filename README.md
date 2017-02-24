@@ -1,4 +1,4 @@
-# log2iptables is no longer mantained
+# log2iptables is no longer maintained
 This project has moved to SECTHEMALL [https://github.com/theMiddleBlue/secthemall](https://github.com/theMiddleBlue/secthemall)
 [https://secthemall.com](https://secthemall.com)
 
