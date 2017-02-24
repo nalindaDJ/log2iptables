@@ -1,3 +1,8 @@
+# log2iptables is no longer mantained
+This project has moved to SECTHEMALL [https://github.com/theMiddleBlue/secthemall](https://github.com/theMiddleBlue/secthemall)
+[https://secthemall.com](https://secthemall.com)
+
+
 # log2iptables 1.8
 log2iptables is a Bash script that parses a log file and executes iptables command. Useful for automatically block an IP address against brute-force or port scan activities.
 
