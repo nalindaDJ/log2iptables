@@ -1,5 +1,5 @@
 # log2iptables is no longer maintained
-This project has moved to SECTHEMALL [https://github.com/theMiddleBlue/secthemall](https://github.com/theMiddleBlue/secthemall)
+This project has moved to SECTHEMALL [https://github.com/SECTHEMALL/secthemall](https://github.com/SECTHEMALL/secthemall)
 [https://secthemall.com](https://secthemall.com)
 
 
